@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./App.css";
 
 const MultipleInputs = () => {
   const [userRegistration, setUserRegistration] = useState({
