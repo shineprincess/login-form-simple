@@ -67,4 +67,20 @@
 
 }
 
+.display__style {
+  background-color: rgb(76, 161, 241);
+  padding: 10px 5px;
+  width: auto;
+  margin-top: 20px;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+  box-shadow: 20px 20px 40px orchid;
+}
+
+p {
+  padding: 5px;
+  color: black;
+  font-family: "Open Sans", sans-serif;
+}
 
